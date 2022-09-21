@@ -1,4 +1,4 @@
-###### Olá, Seja Bem vindo ao meu repositório
+###### Olá, Seja Bem vindo ao meu repositório, sou Estudante em Análise e desenvolvimento de sistemas e aqui postarei um pouco dos meus estudos e aprendizado.
 
 🧿
 
